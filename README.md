@@ -1,14 +1,14 @@
-# http5114
-Files from HTTP5114 course.
+# Workshops in Web Development 1 - HTTP5114
 
-Make some changes
+![GitHub](/images/github.png)
+
+This Repo is for my Workshops in Web Dev 1 - HTTP5114 Assignment.
+
+> [!Note]  
+> You can learn Git from : [W3Schools](https://www.w3schools.com/git/).
 
 
-## starting a new project
-1. Make a new repo on github.com
-2. open your terminal
-3. Navigate  your terminal to project destination
-4. clone the repo
-5. change directory into the new folder
-6. open vscode and point it on same folder
-
+> Sample Code
+```git
+git --version
+```
