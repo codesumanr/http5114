@@ -1,7 +1,5 @@
 # Workshops in Web Development 1 - HTTP5114
 
-![GitHub](/images/github.png)
-
 This Repo is for my Workshops in Web Dev 1 - HTTP5114 Assignment.
 
 > [!Note]  
